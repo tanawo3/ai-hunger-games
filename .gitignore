@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+
+# Hardhat
+cache/
+artifacts/
+
+# Frontend builds
+dist/
+build/
